@@ -1,7 +1,6 @@
 # 📊 Financial KPI Dashboard — End-to-End Business Intelligence Project
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Data Analysis](https://img.shields.io/badge/Analysis-Financial_KPI-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
