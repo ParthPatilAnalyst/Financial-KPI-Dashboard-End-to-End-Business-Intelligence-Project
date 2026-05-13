@@ -6,7 +6,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > A production-grade financial analytics project covering **$62M+ in annual revenue** across 8 U.S. states — integrating Revenue, Expense, EBIT, Accounts Receivable, HR Workforce, Social Campaigns, and Customer Satisfaction into a unified executive KPI dashboard.
-
+>
+> 
+![image alt](https://github.com/ParthPatilAnalyst/Financial-KPI-Dashboard-End-to-End-Business-Intelligence-Project/blob/1224c3695fbc5a177b581d61a4f59908222e0bda/Screenshot%202026-05-13%20095039.png)
 ---
 
 ## 📋 Table of Contents
